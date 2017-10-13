@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+        <birthDay>18.04.1988</birthDay>
+        <contactNumber>89131064143</contactNumber>
+        <customer_id>1</customer_id>
+        <familyName>Воробьев</familyName>
+        <firstName>Евгений</firstName>
+        <lastName>Александрович</lastName>
+        <password>qwerty123</password>
+        <town>Томск</town>
+    </user>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+        <birthDay>13.04.1988</birthDay>
+        <contactNumber>89131080245</contactNumber>
+        <customer_id>2</customer_id>
+        <familyName>Комельков</familyName>
+        <firstName>Артем</firstName>
+        <lastName>Александрович</lastName>
+        <password>yttiJl66</password>
+        <town>Томск</town>
+    </user>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+        <birthDay>13.07.1975</birthDay>
+        <contactNumber>555666</contactNumber>
+        <customer_id>6</customer_id>
+        <familyName>Басков</familyName>
+        <firstName>Николай</firstName>
+        <lastName>Васильевич</lastName>
+        <password>hiiuh</password>
+        <town>Москва</town>
+    </user>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+        <birthDay>05.12.1975</birthDay>
+        <contactNumber>555666</contactNumber>
+        <customer_id>7</customer_id>
+        <familyName>Басков</familyName>
+        <firstName>Николай</firstName>
+        <lastName>Петрович</lastName>
+        <password>333333333hiiuh</password>
+        <town>Лондон</town>
+    </user>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="customer">
+        <birthDay>10.07.1971</birthDay>
+        <contactNumber>5555555666</contactNumber>
+        <customer_id>5</customer_id>
+        <familyName>Путин</familyName>
+        <firstName>Василий</firstName>
+        <lastName>Васильевич</lastName>
+        <password>hi8888h</password>
+        <town>Москва</town>
+    </user>
+</users>

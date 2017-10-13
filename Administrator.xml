@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="administrator">
+        <admin_id>1</admin_id>
+        <birthDay>05.12.1975</birthDay>
+        <familyName>Константов</familyName>
+        <firstName>Константин</firstName>
+        <lastName>Константинович</lastName>
+        <password>8HeepooiimmmD</password>
+        <town>Лондон</town>
+    </user>
+    <user xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="administrator">
+        <admin_id>2</admin_id>
+        <birthDay>10.07.1971</birthDay>
+        <familyName>Путин</familyName>
+        <firstName>Игорь</firstName>
+        <lastName>Васильевич</lastName>
+        <password>hi8888h</password>
+        <town>Москва</town>
+    </user>
+</users>

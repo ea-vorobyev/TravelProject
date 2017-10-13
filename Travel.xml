@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<travels>
+    <travel>
+        <country>Англия</country>
+        <customer>1</customer>
+        <food>всё включено</food>
+        <levelHotel>Эллеон</levelHotel>
+        <quantity>20</quantity>
+        <rating>5</rating>
+        <town>Халл</town>
+        <travel_id>1</travel_id>
+    </travel>
+    <travel>
+        <country>Россия</country>
+        <customer>1</customer>
+        <food>всё включено</food>
+        <levelHotel>Томск1</levelHotel>
+        <quantity>5</quantity>
+        <rating>6</rating>
+        <town>Томск</town>
+        <travel_id>2</travel_id>
+    </travel>
+</travels>
